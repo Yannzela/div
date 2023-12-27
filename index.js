@@ -57,8 +57,8 @@ console.log(" ░░░░░░░░░░░░░░░░░░░░░░
 
   let status = [
     { name: `ydroxz Brabo Das Divs!`, type: "PLAYING" },
-    { name: `Entra ae: https://discord.gg/wmCW5bHSmP`, type: "PLAYING" },
-    { name: `Infinity Store No Topo!`, type: "PLAYING" }
+    { name: `Entra ae: https://discord.gg/BDs9C5YF7Y`, type: "PLAYING" },
+    { name: `ITJ RP No Topo`, type: "PLAYING" }
   ];
 
   function st() {
